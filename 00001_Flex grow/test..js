@@ -1,5 +1,3 @@
-describe("Descripción del grupo", function() {
-  it("Descripción del ejemplo", function() {
-    assert(true)
-  })
+it("Se introdujeron tres divs", () => {
+  document.getElementsByTagName("div").length.should.eql(3);
 })
