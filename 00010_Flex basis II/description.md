@@ -1,1 +1,5 @@
-Agregá 6 `divs`. Dales a todos un `flex-basis` de 25%. Hacé que el último `div` ocupe el espacio restante.
+Necesitamos agregar 6 `divs`en donde todos deberan estar en la clase `box` y tener un `flex-basis` de 25%. El último de los `div`s debe ocupar el espacio restante
+
+> Escribí dentro del `container` los `div`s con las especificaciones que acabamos de describir.
+
+
