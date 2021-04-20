@@ -1,6 +1,6 @@
 /*<output#*//*#output>*/
 /*<tests#*/it("Se introdujeron seis divs",() => {
-  document.getElementsByTagName('div').length.should.eq(7);
+  document.querySelectorAll('.container div').length.should.eq(6);
 })/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
