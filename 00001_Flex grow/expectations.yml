@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: ".medio"
+  binding: "*"
   inspection: DeclaresStyle:flex-grow:1
