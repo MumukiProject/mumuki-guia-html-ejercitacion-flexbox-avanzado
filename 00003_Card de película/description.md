@@ -1,11 +1,13 @@
-Crear una card de película con los siguientes datos: póster de la película, título, descripción, año y género
+Queremos crear una card de película :projector:, la misma deberá tener los siguientes datos: póster de la película, título, descripción, año y género
 
 Por ejemplo:
 
 ![](https://i.ibb.co/z6hKMWp/Screen-Shot-2020-08-28-at-17-10-56.png)
 
-- La card debe tener un ancho y un alto fijo.
-- La card debe estar centrada con respecto al ancho y al alto de la pantalla.
-- La imagen debe tener un ancho fijo.
-- El contenedor de la información de la película debe ocupar el ancho disponible (con `flex-grow`) y el 100% del alto de la card.
-- La descripción debe ocupar el alto disponible.
+- la card debe tener un ancho de 600px y un alto de 250px;
+- la card debe estar centrada con respecto al ancho y al alto de la pantalla;
+- la imagen debe tener un ancho fijo de 150px;
+- el contenedor de la información de la película debe ocupar el ancho disponible (con `flex-grow`) y el 100% del alto de la card;
+- la descripción debe ocupar el alto disponible.
+
+> Creá el código HTML que acabamos de describir.
