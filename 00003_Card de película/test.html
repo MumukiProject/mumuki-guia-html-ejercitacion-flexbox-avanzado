@@ -11,8 +11,8 @@ it("La card tiene un ancho de 600px",() => {
   document.querySelector('.card').should.have.style('height', '250px');
 })
 
-it("La card está centrada",() => {
-  document.querySelector('.card').should.have.style('align-items', 'center');
+it("La card está centrada con respecto a la pantalla",() => {
+  document.querySelector('.container').should.have.style('align-items', 'center');
 })
 
 
