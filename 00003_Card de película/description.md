@@ -4,6 +4,9 @@ Por ejemplo:
 
 ![](https://i.ibb.co/z6hKMWp/Screen-Shot-2020-08-28-at-17-10-56.png)
 
+:warning: Consideraciones:
+
+- la card debe estar en la clase `card`;
 - la card debe tener un ancho de 600px y un alto de 250px;
 - la card debe estar centrada con respecto al ancho y al alto de la pantalla;
 - la imagen debe tener un ancho fijo de 150px;
