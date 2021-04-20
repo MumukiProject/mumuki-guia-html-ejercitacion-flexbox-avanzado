@@ -1,2 +1,5 @@
+Necesitamos agregar 3 `divs`en donde el último `div` deberá ocupar 60% del ancho de la pantalla y estar en la clase `ultimo`, y los 2 primeros deben ocupar un 20% de la pantalla cada uno y estar en la clase `primeros`.
 
-Agregá 3 `divs`. Hacé que el último `div` ocupe 60% del ancho de la pantalla, y los 2 primeros un 20% cada uno.
+> Escribí dentro del `container` los `div`s con las especificaciones que acabamos de describir.
+
+
