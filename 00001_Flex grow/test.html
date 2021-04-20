@@ -4,15 +4,15 @@
 })
 
 it("El primer div tiene 250px de ancho",() => {
-  document.querySelector('div')[0].should.have.style('width', '250px')
+  document.querySelectorAll('div')[0].should.have.style('width', '250px')
 })
 
 it("El último div tiene 250px de ancho",() => {
-  document.querySelector('div')[2].should.have.style('width', '250px')
+  document.querySelectorAll('div')[2].should.have.style('width', '250px')
 })
 
 it("El segundo div tiene ocupa el espacio restante",() => {
-  document.querySelector('div')[1].should.have.style('flex-grow', '1')
+  document.querySelectorAll('div')[1].should.have.style('flex-grow', '1')
 })
 /*#tests>*/
 /*<options#*/output_ignore_scripts: true
