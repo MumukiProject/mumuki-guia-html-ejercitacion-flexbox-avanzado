@@ -2,4 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: ".medio"
-  inspection: DeclaresStyle:flex-grow
+  inspection: DeclaresStyle:flex-grow:1
