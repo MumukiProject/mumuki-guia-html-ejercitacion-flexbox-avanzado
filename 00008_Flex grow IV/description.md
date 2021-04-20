@@ -1,0 +1,1 @@
+Agregá 3 `divs`. Hacé que el primer `div` ocupe la mitad del ancho de la pantalla, y los 2 restantes un cuarto cada uno.
