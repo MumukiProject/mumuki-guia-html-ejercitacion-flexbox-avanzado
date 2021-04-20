@@ -1,2 +1,3 @@
+Necesitamos 3 `div`s. El primero deberá estar en la clase `primero` y ocupar la mitad del ancho de la pantalla; mientras que los 2 restantes deben estar en la clase `restantes` y ocupar un cuarto de pantalla cada uno.
 
-Agregá 3 `divs`. Hacé que el primer `div` ocupe la mitad del ancho de la pantalla, y los 2 restantes un cuarto cada uno.
+> Escribí los `div`s con las clases y especificaciones que acabamos de describir.
