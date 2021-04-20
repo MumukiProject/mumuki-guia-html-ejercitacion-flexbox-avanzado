@@ -1,4 +1,19 @@
 /*<output#*//*#output>*/
-/*<tests#*///TODO/*#tests>*/
+/*<tests#*/it("Se introdujeron tres div", () => {
+  document.getElementsByTagName("div").length.should.eql(3);
+})
+
+it("El primer div tiene 250px de ancho",() => {
+  document.querySelector('div')[0].should.have.style('width', '250px')
+})
+
+it("El último div tiene 250px de ancho",() => {
+  document.querySelector('div')[2].should.have.style('width', '250px')
+})
+
+it("El segundo div tiene ocupa el espacio restante",() => {
+  document.querySelector('div')[1].should.have.style('flex-grow', '1')
+})
+/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
