@@ -1,6 +1,6 @@
 /*<output#*//*#output>*/
 /*<tests#*/it("Se introdujeron cuatro div", () => {
-  document.getElementsByTagName("div").length.should.eql(4);
+  document.querySelectorAll(".container div").length.should.eql(4);
 })
 
 it("El primer div tiene 200px de ancho",() => {
