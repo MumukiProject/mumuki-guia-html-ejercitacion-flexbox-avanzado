@@ -1,0 +1,1 @@
+Agregá 4 `divs`. Hacé que el primero y el último tengan 200px de ancho usando `width`, y que los dos del medio ocupen cada uno la mitad del espacio restante, usando `flex-grow`.
