@@ -1,0 +1,1 @@
+Agregá 6 `divs`. Dales a todos un `flex-basis` de 25%. Hacé los dos últimos ocupen la mitad del ancho de la pantalla cada uno.
