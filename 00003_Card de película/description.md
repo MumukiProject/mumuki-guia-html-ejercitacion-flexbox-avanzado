@@ -7,7 +7,7 @@ Por ejemplo:
 :warning: Consideraciones:
 
 - la card debe estar en la clase `card`;
-- la card debe tener un ancho de 600px y un alto de 250px;
+- la card debe tener un ancho de 600px y un alto de 300px;
 - la card debe estar centrada con respecto al ancho y al alto de la pantalla;
 - la imagen debe tener un ancho fijo de 150px;
 - el contenedor de la información de la película debe estar en la clase `informacion` ocupar el ancho disponible (con `flex-grow`) y el 100% del alto de la card;
