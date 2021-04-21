@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: css:*
+  binding: css:.container
   inspection: DeclaresStyle:flex-grow:1;
