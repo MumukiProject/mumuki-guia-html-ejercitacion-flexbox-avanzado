@@ -4,5 +4,5 @@ expectations:
   binding: css:.primero
   inspection: DeclaresStyle:flex-grow:2
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: css:.restantes
+  binding: css:.restante
   inspection: DeclaresStyle:flex-grow:1
