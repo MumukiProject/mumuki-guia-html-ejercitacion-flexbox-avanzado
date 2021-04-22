@@ -8,5 +8,7 @@ La disposición de los elementos deberá verse similar a este:
 - El header debe estar en la clase `header` y tener un alto fijo de `100px`. 
 - El footer debe estar en la clase `footer` y tener un alto fijo de `100px`. 
 - Foto e Icono deben tener un ancho fijo de `100px`, icono debe estar en la clase `icono`.
-- Nombre debe ocupar todo el ancho disponible restante.
+- Nombre debe estar en la clase `nombre` y ocupar todo el ancho disponible restante.
 - El contenedor del menú de opciones debe estar en la clase `menu` ocupar el espacio disponible.
+
+> Creá el código HTML y aplicá los estilos que acabamos de describir.
