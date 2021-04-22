@@ -11,8 +11,8 @@ el.style.fontSize = (fontSize + 1) + 'px';*/
 
 it("zaraza", () => {
   var element = document.querySelectorAll('div')[2];
-  let fontSize = element.style.fontSize
-  fontSize.should.eq('20px');
+  let style = getComputedStyle(element)
+  style.fontSize.should.eq('20px');
 })/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
