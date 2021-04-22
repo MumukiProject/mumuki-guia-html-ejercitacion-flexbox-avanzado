@@ -10,9 +10,9 @@ var fontSize = parseFloat(style);
 el.style.fontSize = (fontSize + 1) + 'px';*/
 
 it("zaraza", () => {
-  var el = document.querySelectorAll('div')[2];
-  var style = window.getComputedStyle(el, null).getPropertyValue('font-size');
-  style.should.eq('20px');
+  var element = document.querySelectorAll('div')[2];
+  let fontSize = element.style.fontSize
+  fontSize.should.eq('20px');
 })/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
