@@ -1,6 +1,18 @@
 /*<output#*//*#output>*/
 /*<tests#*/it("Hay tres divs dentro del container", () => {
   document.querySelectorAll('.container div').length.should.eq(3);
+})
+
+/*var el = document.querySelectorAll('div')[0];
+var style = window.getComputedStyle(el, null).getPropertyValue('font-size');
+var fontSize = parseFloat(style); 
+// now you have a proper float for the font size (yes, it can be a float, not just an integer)
+el.style.fontSize = (fontSize + 1) + 'px';*/
+
+it("zaraza", () => {
+  var el = document.querySelectorAll('div')[2];
+  var style = window.getComputedStyle(el, null).getPropertyValue('flex-grow');
+  style.should.eq(3);
 })/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
