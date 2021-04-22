@@ -9,4 +9,4 @@ La disposición de los elementos deberá verse similar a este:
 - El footer debe estar en la clase `footer` y tener un alto fijo de `100px`. 
 - Foto e Icono deben tener un ancho fijo de `100px`, icono debe estar en la clase `icono`.
 - Nombre debe ocupar todo el ancho disponible restante.
-- El contenedor del menú de opciones debe ocupar el espacio disponible.
+- El contenedor del menú de opciones debe estar en la clase `menu` ocupar el espacio disponible.
