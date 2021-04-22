@@ -8,4 +8,4 @@ Replicar el siguiente layout:
 - el contenedor de Main y Aside debe estar en la clase `contenedor` y ocupar el ancho restante;
 - main debe estar en la clase `main` y ocupar dos tercios del ancho de su contenedor;
 - aside debe estar en la clase `aside` y ocupar un tercio del ancho de su contenedor;
-- todos los contenedores anteriores deberan estar en la clase `container` que debe tener un ancho de `400px`.
+- todos los contenedores anteriores deberan estar en la clase `container` que debe tener un alto de `400px`.
