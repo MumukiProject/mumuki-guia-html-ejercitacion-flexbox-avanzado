@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:.ultimo
-  inspection: DeclaresStyle:flex-grow:3
+  inspection: DeclaresStyle:flex-grow:0.6
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:.primero
-  inspection: DeclaresStyle:flex-grow:1
+  inspection: DeclaresStyle:flex-grow:0.2
