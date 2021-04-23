@@ -1,3 +1,3 @@
-Vamos a hacer nuestros primeros ejercicios de flex grow :sunglasses:, para eso crearemos 3 `div`s, el primero y el último deben estar dentro de la clase `extremos`, tener `250px` de ancho usando `width`; mientras que el div del medio debe estar dentro de la clase `medio` y  ocupar el espacio restante usando `flex-grow`.
+Vamos a hacer nuestros primeros ejercicios de flex grow :sunglasses:, para eso crearemos 3 `div`s, el primero y el último deben tener clase `extremos`, tener `250px` de ancho usando `width`; mientras que el div del medio debe tener la clase `medio` y  ocupar el espacio restante usando `flex-grow`.
 
 > Escribí los `div`s con las especificaciones que acabamos de describir dentro de `container`.
