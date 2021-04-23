@@ -8,6 +8,6 @@ Queremos replicar el siguiente layout:
 - el contenedor de `main` y `aside` debe tener la clase `principal` y ocupar el ancho restante;
 - main debe tener la clase `main` y ocupar dos tercios del ancho de su contenedor;
 - aside debe tener la clase `aside` y ocupar un tercio del ancho de su contenedor;
-- todos los contenedores anteriores deberan tener la clase `container` que debe tener un alto de `400px`.
+- todos los contenedores anteriores deberan estar en un `div` que tenga la clase `container` con un alto de `400px`.
 
 > Creá el código HTML con las especificaciones que acabamos de describir.
