@@ -2,4 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:.container
-  inspection: DeclaresStyle:flex-grow:3
+  inspection: DeclaresStyle:flex-grow:1
