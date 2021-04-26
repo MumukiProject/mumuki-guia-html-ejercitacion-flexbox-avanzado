@@ -15,6 +15,10 @@ it("La imagen tiene un ancho fijo de 250px",() => {
   document.querySelector('img').should.have.style('width', '250px');
 })
 
+it("La descripción ocupa el alto disponible",() => {
+  document.querySelector('.descripcion').should.have.style('height', '100%');
+})
+
 
 
 
