@@ -11,7 +11,9 @@ it("La card tiene un alto de 300px",() => {
   document.querySelector('.card').should.have.style('height', '300px');
 })
 
-
+it("La card está centrada",() => {
+  document.querySelector('.container').should.have.style('align-items', 'center');
+})
 
 
 
