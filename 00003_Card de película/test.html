@@ -7,14 +7,15 @@ it("La card tiene un ancho de 600px",() => {
   document.querySelector('.card').should.have.style('width', '600px');
 })
 
-
 it("La card tiene un alto de 300px",() => {
   document.querySelector('.card').should.have.style('height', '300px');
 })
 
-it("La card está centrada con respecto a la pantalla",() => {
-  document.querySelector('.container').should.have.style('align-items', 'center');
+it("La imagen tiene un ancho fijo de 250px",() => {
+  document.querySelector('img').should.have.style('width', '250px');
 })
+
+
 
 
 
